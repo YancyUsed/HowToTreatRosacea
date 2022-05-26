@@ -1,13 +1,10 @@
-# HowToTreatRosacea 怎么治疗玫瑰痤疮
-
-**Rosacea info collection**
-
+# 怎么治疗玫瑰痤疮
 **个人收集，个人测试使用……可能没有良药……**
-## introduction
-[Rosacea wiki](https://en.wikipidea.org/wiki/Rosacea) fully introduction
-## treatment collection
-the treatment info is not very much，and it's subjective. This is just a collection, and take actions with your own mind.
-1. [知乎|「2021最新玫瑰痤疮诊疗指南」解读（二）](https://zhuanlan.zhihu.com/p/370971649)、[微信| 得了这么久的玫瑰，你真的了解玫瑰吗？](https://mp.weixin.qq.com/s?__biz=MzAwNDYwOTkzNw==&mid=2247483652&idx=1&sn=ce7382e47a81515027bace86f385b91f&chksm=9b2803faac5f8aec6223dbe99574cf43d79ef674df0107dbbb9a6237edefa763f17ad9f14ebd&scene=21#wechat_redirect)、[知乎|得了玫瑰痤疮怎么治？看看中国玫瑰痤疮诊疗专家共识（2016）](https://zhuanlan.zhihu.com/p/138350540)。The articles [(bakeup files)](/BakeupFiles) with alomost the same content written by 谢红付。
+## 玫瑰痤疮介绍
+[Rosacea wiki](https://en.wikipidea.org/wiki/Rosacea) 介绍，一般还会伴有脂溢性皮炎（跟激素水平有关，遗传因素，一般诱发脱发）
+## 治疗方案集合
+治疗信息太少了，目前是无法治愈。
+1. [知乎|「2021最新玫瑰痤疮诊疗指南」解读（二）](https://zhuanlan.zhihu.com/p/370971649)、[微信| 得了这么久的玫瑰，你真的了解玫瑰吗？](https://mp.weixin.qq.com/s?__biz=MzAwNDYwOTkzNw==&mid=2247483652&idx=1&sn=ce7382e47a81515027bace86f385b91f&chksm=9b2803faac5f8aec6223dbe99574cf43d79ef674df0107dbbb9a6237edefa763f17ad9f14ebd&scene=21#wechat_redirect)、[知乎|得了玫瑰痤疮怎么治？看看中国玫瑰痤疮诊疗专家共识（2016）](https://zhuanlan.zhihu.com/p/138350540)。The articles [(bakeup files)](/BakeupFiles) 这些内容都是来自谢红付。
 2. 
 ## 个人治疗测试 
 ### 内用
@@ -50,6 +47,7 @@ the treatment info is not very much，and it's subjective. This is just a collec
   - 颜色，总体变淡，除了鼻沟还是有深红色。
   - 不用手碰，基本不会变红，但是洗漱，肯定要碰到
   - 内服药物是有效的，因为之前用过外用的药物，一直没有效果，而且是长期坚持涂抹的情况下；但是，反胃，太恶心了，好像真的有点腹泻的副作用，不那么严重，却很难受，吃饭也不舒服。
+  - 头痛了……恶心减弱了一些。
 ## 希望 
 - 全世界无产者，联合起来！
   
