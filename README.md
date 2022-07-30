@@ -4,8 +4,8 @@
 [Rosacea wiki](https://en.wikipidea.org/wiki/Rosacea) 介绍，一般还会伴有脂溢性皮炎（跟激素水平有关，遗传因素，一般诱发脱发）
 ## 治疗方案集合
 治疗信息太少了，目前是无法治愈。
-1. [知乎|「2021最新玫瑰痤疮诊疗指南」解读（二）](https://zhuanlan.zhihu.com/p/370971649)、[微信| 得了这么久的玫瑰，你真的了解玫瑰吗？](https://mp.weixin.qq.com/s?__biz=MzAwNDYwOTkzNw==&mid=2247483652&idx=1&sn=ce7382e47a81515027bace86f385b91f&chksm=9b2803faac5f8aec6223dbe99574cf43d79ef674df0107dbbb9a6237edefa763f17ad9f14ebd&scene=21#wechat_redirect)、[知乎|得了玫瑰痤疮怎么治？看看中国玫瑰痤疮诊疗专家共识（2016）](https://zhuanlan.zhihu.com/p/138350540)。The articles [(bakeup files)](/BakeupFiles) 这些内容都是来自谢红付。
-2. 
+1. [知乎|「2021最新玫瑰痤疮诊疗指南」解读（二）](https://zhuanlan.zhihu.com/p/370971649)The arcticle[(backup file)](/BakeupFiles/%E7%B2%BE%E5%8D%8E%EF%BD%9C%E3%80%8C2021%E6%9C%80%E6%96%B0%E7%8E%AB%E7%91%B0%E7%97%A4%E7%96%AE%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97%E3%80%8D%E8%A7%A3%E8%AF%BB%EF%BC%88%E4%BA%8C%EF%BC%89%20-%20%E7%9F%A5%E4%B9%8E.pdf)、[微信| 得了这么久的玫瑰，你真的了解玫瑰吗？](https://mp.weixin.qq.com/s?__biz=MzAwNDYwOTkzNw==&mid=2247483652&idx=1&sn=ce7382e47a81515027bace86f385b91f&chksm=9b2803faac5f8aec6223dbe99574cf43d79ef674df0107dbbb9a6237edefa763f17ad9f14ebd&scene=21#wechat_redirect)The arcticle[(backup file)](/BakeupFiles/%E5%BE%97%E4%BA%86%E8%BF%99%E4%B9%88%E4%B9%85%E7%9A%84%E7%8E%AB%E7%91%B0%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%8E%AB%E7%91%B0%E5%90%97%EF%BC%9F.pdf)、[知乎|得了玫瑰痤疮怎么治？看看中国玫瑰痤疮诊疗专家共识（2016）](https://zhuanlan.zhihu.com/p/138350540)。The article [(bakeup file)](/BakeupFiles/%E5%BE%97%E4%BA%86%E7%8E%AB%E7%91%B0%E7%97%A4%E7%96%AE%E6%80%8E%E4%B9%88%E6%B2%BB%EF%BC%9F%E7%9C%8B%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%8E%AB%E7%91%B0%E7%97%A4%E7%96%AE%E8%AF%8A%E7%96%97%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86%EF%BC%882016%EF%BC%89%20-%20%E7%9F%A5%E4%B9%8E.pdf) 这些内容都是来自谢红付。
+2. [Rosacea: New Concepts in Classification and Treatment](https://link.springer.com/article/10.1007/s40257-021-00595-7). The arcticle[(backup file)](/BakeupFiles/Zuuren2021_Article_RosaceaNewConceptsInClassifica.pdf) .大致方案就是抑制细菌以及控制免疫功能，抑制细菌包括外用软膏和内服抗生素，抑制免疫药物各个方面的都有，经历过之前那款免疫的药物，副作用都会很大，最后提到的药物也在验证阶段，也不一定买到。
 ## 个人治疗测试 
 ### 内用
 #### 壹阶段
